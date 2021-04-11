@@ -1,5 +1,4 @@
-# hw1-daniel-kouam
-Task:
+# Task:
 
 Create a static website for image gallery with HTML + CSS
 You are not allowed to use any JS or CSS frameworks
