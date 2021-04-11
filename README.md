@@ -1,6 +1,6 @@
 # Task:
 
-Create a static website for image gallery with HTML + CSS
+Create a static website for image gallery with HTML + CSS <br>
 You are not allowed to use any JS or CSS frameworks
 Website consists of header with title and body with image gallery
 Gallery should be responsive and look the same on the different screens
